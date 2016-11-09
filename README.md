@@ -2,6 +2,7 @@
 UWP sample that accessing OneDrive with using C++/CX
 
 This code use only C++/CX and UWP API. it does not use .NET.
+Also this code don't use Casablanca(CPP REST SDK). It is simpl code.
 it support the architectures x64/x86/ARM. Of course this sample work well on Windows Phone(Windows 10 Moblie).
 this project shows the method that access OneDrive. ex) sign-in, upload file, download file...
 
